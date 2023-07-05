@@ -1,0 +1,7 @@
+3,Car
+3,Car
+3,Car
+2,Doll
+3,Car
+1,Teddy Bear
+3,Car
